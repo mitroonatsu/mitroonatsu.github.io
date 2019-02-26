@@ -23,17 +23,17 @@ body {
     border-radius: 50%;
   }
 
-  .fb-logo {
+  .infologos {
     width: 30px;
     height: 30px;
     border-radius: 20%;
   }
 
-  .github-logo{
-    width: 30px;
-    height: 30px;
-    border-radius: 20%;
-  }
+.techs {
+  width: 200px;
+  height: 150px;
+  display: flex;
+}
 
   /* On smaller screens, where height is less than 450px, change the style of the sidebar (less padding and a smaller font size) */
   @media screen and (max-height: 450px) {
